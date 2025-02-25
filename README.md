@@ -11,7 +11,18 @@ In this module, we learn about how to use deep learning models to integrate mult
 - Flexynesis: https://github.com/BIMSBbioinfo/flexynesis
     - Command-line tutorial: https://bimsbstatic.mdc-berlin.de/akalin/buyar/flexynesis/site/getting_started/
     - Jupyter notebooks: https://github.com/BIMSBbioinfo/flexynesis/tree/main/examples/tutorials
-      
+
+# Docker
+
+docker build -t borauyar/flexynesis_image . 
+docker push borauyar/flexynesis_image:latest
+
+docker pull borauyar/flexynesis_image:latest
+docker run -it -p 8888:8888 borauyar/flexynesis_image 
+jupyter lab --ip=0.0.0.0 --no-browser --allow-root 
+Open your browser and go to http://localhost:8888 
+
+ 
 # Contact
 
 - Bora Uyar, bora.uyar@mdc-berlin.de
