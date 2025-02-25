@@ -18,8 +18,11 @@ docker build -t borauyar/flexynesis_image .
 docker push borauyar/flexynesis_image:latest
 
 docker pull borauyar/flexynesis_image:latest
+
 docker run -it -p 8888:8888 borauyar/flexynesis_image 
+
 jupyter lab --ip=0.0.0.0 --no-browser --allow-root 
+
 Open your browser and go to http://localhost:8888 
 
  
