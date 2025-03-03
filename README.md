@@ -15,6 +15,7 @@ In this module, we learn about how to use deep learning models to integrate mult
 # Docker
 
 docker build -t borauyar/flexynesis_image . 
+
 docker push borauyar/flexynesis_image:latest
 
 docker pull borauyar/flexynesis_image:latest
