@@ -37,9 +37,13 @@ Then, click on **Compute -> Launch -> Launch JupyterLab**. Wait for the session 
 There you will have a JupyterLab environment with all packages installed.
 In this session, you can also use the **terminal**.
 
++++++++++++++++++++++
+
 **Important Note**: Each session you create on Rolv is **limited** to a **total of 3 hours**. 
 Please make sure to **backup your work** before terminating your session. 
 We recommend creating a github repo and have a backup of your work there. 
+
++++++++++++++++++++++
 
 Docker Desktop
 ---------------
