@@ -18,17 +18,20 @@ Steps for the homework:
     Write a bash script to run the following experiments: 
       Try a combination of:
      
-      a) **different architectures**: DirectPred, Supervised VAE, GNN (Test at least 2 of these)
+      a) **different architectures**: e.g. DirectPred, Supervised VAE, GNN (Test at least 2 of these). 
      
       b) **data type combinations** (e.g. mutation, mutation + rna, mutation + cnv) (Test at least 2 of these) 
      
-      c) **fusion methods**: early, intermediate 
+      c) **fusion methods**: early, intermediate (applies only to tools other than GNN)
       
       So, in total, you will run maximally 3 x 3 x 2 = 18 different flexynesis runs (and minimally 2 x 2 x 2 = 8 different runs).
-     
+
+      **Note**: GNNs actually only support "early" fusion, so you can skip "intermediate" fusion for GNNs, but you can try different graph convolution options for GNNs.
+        For GNNs, try "GC" and "SAGE" as different options in your experiment (See --gnn_conv_type argument). 
+
       **Hint**: Restrict your analysis to 5-10% of the features (use a combination of variance and laplacian score filtering).
      
-  4. Open a jupyter notebook and do the following:
+  5. Open a jupyter notebook and do the following:
   
         a) Import the results of the experiments from step 3, and rank the experiments based on performance (pearson_corr)
         Which combination yields the best results?
@@ -39,5 +42,5 @@ Steps for the homework:
            Get top 10 markers. Do literature search. Are any of the top markers associated to “Erlotinib”?  
 
 
-  5. Submit the jupyter notebook from step 4 as your assignment on the google classroom. 
+  6. Submit the jupyter notebook from step 4 as your assignment on the google classroom. 
   
