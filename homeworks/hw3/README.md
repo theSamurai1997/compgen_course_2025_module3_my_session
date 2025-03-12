@@ -29,7 +29,10 @@ Steps for the homework:
       **Note**: GNNs actually only support "early" fusion, so you can skip "intermediate" fusion for GNNs, but you can try different graph convolution options for GNNs.
         For GNNs, try "GC" and "SAGE" as different options in your experiment (See --gnn_conv_type argument). 
 
-      **Hint**: Restrict your analysis to 5-10% of the features (use a combination of variance and laplacian score filtering).
+      **Hint 1**: Restrict your analysis to 5-10% of the features (use a combination of variance and laplacian score filtering).
+     
+      **Hint 2**: It is okay to use few HPO iterations for this exercise (e.g. 15 iterations or so) (considering the resourse/time limits etc). 
+       The point of this exercise is not to find the perfect model, but to get an insight on the idea of benchmarking different setups. 
      
   5. Open a jupyter notebook and do the following:
   
