@@ -1,2 +1,10 @@
 resources/zoom_*
+homeworks/hw1/brca_metabric.tgz
+homeworks/hw1/.ipynb_checkpoints/
+homeworks/hw1/brca_metabric_processed/*
+homeworks/hw2/lgggbm_tcga_pub_processed/*
+submissions/day1/.ipynb_checkpoints/
+homeworks/hw2/lgggbm_tcga_pub_processed.tgz
+homeworks/hw2/.ipynb_checkpoints/
+
 
