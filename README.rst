@@ -83,3 +83,24 @@ This will create a link that looks like this:
 
 Copy-paste that link into your browser to open a JupyterLab session.
 
+Further Learning
+===================
+
+Here are some resource I found useful: 
+
+- Fastai: https://course19.fast.ai/part2
+- Pytorch: https://pytorch.org/tutorials/index.html
+- Lightning: https://www.datacamp.com/tutorial/pytorch-lightning-tutorial
+- Graph Neural Networks: https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z&ab_channel=DeepFindr
+- Elements of statistical learning (Rob Tibshirani, Trevor Hastie): https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&ab_channel=StanfordOnline
+- Computational Genomics in R (Akalin, Franke, Ronen, Uyar): https://compgenomr.github.io/book/
+
+
+
+
+
+
+
+
+
+
