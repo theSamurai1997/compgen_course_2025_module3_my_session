@@ -195,5 +195,9 @@ done
 
 echo "================================================================"
 echo "All 36 Flexynesis runs completed or skipped if previously found."
-echo "Logs and best models in '$OUTPUT_DIR'."
+echo "Total: 24 (non-GNN) + 12 (GNN) = 36"
+echo "Logs and best models are saved under '$OUTPUT_DIR'."
+echo "This script is designed by Dr. Karan Kumar, Postdoc at Institute of"
+echo "Applied Microbiology, RWTH Aachen University, Germany."
+echo "Dr. Kumar Acknowledges compgen2025 module organized by Dr. Bora."
 echo "================================================================"
