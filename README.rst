@@ -24,6 +24,36 @@ In this course, we are using two resources to organize the course:
    Before opening a new discussion topic, please check if something similar is already open.
    If you know the answer to a question someone else raised, feel free to help your classmates! We appreciate your support.
 
+
+Course Material
+======================
+
+Here is the course material we have developed during the workshop. Feel free to share and re-use. 
+
+1. Day-1: 
+
+   - `Slides <https://docs.google.com/presentation/d/1Z3m8JOQY0JidM7gIJNFWaOfCaTH-rU47y4zCu5Bk6mE/edit?usp=sharing>`_
+   - `Live session <https://youtu.be/7QxRqhFDJiY?feature=shared>`_
+   - `Homework <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/tree/main/homeworks/hw1>`_
+
+2. Day 2: 
+
+   - `Slides <https://docs.google.com/presentation/d/1a31RoNIiZYdZFL9cc4OZ3TpgBGrk1IH1brW9VeHo3dQ/edit?usp=sharing>`_
+   - `Live session <https://youtu.be/CjTjcu_k2EI?feature=shared>`_
+   - `Homework <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/tree/main/homeworks/hw2>`_
+
+3. Day 3: 
+
+   - `Slides <https://docs.google.com/presentation/d/1OvXK4H5W7qbD4jeru8pwnkQdiGz0RfjrW4Omd8kd0dg/edit?usp=sharing>`_
+   - `Live session <https://youtu.be/WM4VkjFHOwI?feature=shared>`_
+   - `Homework <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/tree/main/homeworks/hw3>`_
+
+4. Day 4: 
+
+   - `Live session <https://youtu.be/jYzKw4rF-ck?feature=shared>`_
+   - We didn't use any slides and we didn't have any more homeworks. 
+   
+
 Compute Environment
 ===================
 
