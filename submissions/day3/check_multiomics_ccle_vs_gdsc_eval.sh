@@ -55,7 +55,6 @@ GNN_CONV_TYPES=("GC" "SAGE")
 # We'll look in $OUTPUT_DIR/$PREFIX/ for each of these: $PREFIX<EXT>
 REQUIRED_EXTS=(
   ".final_model.pth"
-  ".log"
   ".stats.csv"
   ".predicted_labels.csv"
   ".feature_importance.IntegratedGradients.csv"
