@@ -35,12 +35,14 @@ Here is the course material we have developed during the workshop. Feel free to 
    - `Slides <https://docs.google.com/presentation/d/1Z3m8JOQY0JidM7gIJNFWaOfCaTH-rU47y4zCu5Bk6mE/edit?usp=sharing>`_
    - `Live session <https://youtu.be/7QxRqhFDJiY?feature=shared>`_
    - `Homework <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/tree/main/homeworks/hw1>`_
+   - `Homework solutions <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/blob/main/solutions/day1_hw_brca_subtypes_solutions.ipynb>`_
 
 2. Day 2: 
 
    - `Slides <https://docs.google.com/presentation/d/1a31RoNIiZYdZFL9cc4OZ3TpgBGrk1IH1brW9VeHo3dQ/edit?usp=sharing>`_
    - `Live session <https://youtu.be/CjTjcu_k2EI?feature=shared>`_
    - `Homework <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/tree/main/homeworks/hw2>`_
+   - `Homework solutions <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/blob/main/solutions/day2_hw_lgg_gbm_solutions.ipynb>`_ 
 
 3. Day 3: 
 
