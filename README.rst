@@ -49,6 +49,7 @@ Here is the course material we have developed during the workshop. Feel free to 
    - `Slides <https://docs.google.com/presentation/d/1OvXK4H5W7qbD4jeru8pwnkQdiGz0RfjrW4Omd8kd0dg/edit?usp=sharing>`_
    - `Live session <https://youtu.be/WM4VkjFHOwI?feature=shared>`_
    - `Homework <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/tree/main/homeworks/hw3>`_
+   - `Homework solutions <https://github.com/BIMSBbioinfo/compgen_course_2025_module3/tree/main/solutions/hw3>`_ 
 
 4. Day 4: 
 
